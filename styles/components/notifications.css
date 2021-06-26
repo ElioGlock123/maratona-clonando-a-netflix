@@ -12,3 +12,109 @@
     font-weight: bold;
     font-size: 16px;
 }
+
+.background__notification{
+    background-color: #424242;
+}
+
+.notification-image{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    margin: 0 auto;
+    width: 90%;
+
+}
+
+.notification__date {
+    margin-left: 10px;
+}
+
+.notification__date-text{
+    font-size: 13px;
+    width: 70px;
+}
+.notification__date-text-2{
+    font-size: 13px;
+    width: 100px;
+}
+
+.date{
+    padding-top: 10px;
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.48);
+}
+
+/* Movies and description */
+
+.notification__movie{
+    margin-top: 20px;
+}
+
+.options{
+    margin-top: 20px;
+    margin-bottom: 13px;
+    display: flex;
+    margin-left: 200px;
+}
+
+.options__image{
+    margin-left: 15px;
+    width: 24px;
+}
+.options__image-2 {
+    margin-left: 5px;
+    width: 24px;
+}
+
+.options__text{
+    font-size: 11px;
+    color: rgba(255, 255, 255, 0.83);
+}
+
+.options__space{
+    margin-left: 60px;
+}
+
+/* description */
+
+.description{
+    margin: 0 auto;
+    width: 90%;
+}
+
+.description__text{
+    font-size: 11px;
+    line-height: 14px;
+    letter-spacing: -0.0305636px;
+    color: rgba(255, 255, 255, 0.83);
+}
+.description__text-2{
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: -0.0305636px;
+    color: rgba(255, 255, 255, 0.83);
+    width: 356px;
+}
+
+.description__title{
+    padding-top: 11px;
+    font-weight: bold;
+    font-size: 18px;
+    padding-bottom: 11px;
+}
+
+.description__type{
+    font-size: 11px;
+}
+
+.description__point{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.69);
+}
+
+.description--last{
+    margin: 0 auto;
+    width: 90%;
+    margin-bottom: 20px;
+}
