@@ -48,6 +48,7 @@
 /* Movies and description */
 
 .notification__movie{
+    width: 100%;
     margin-top: 20px;
 }
 
